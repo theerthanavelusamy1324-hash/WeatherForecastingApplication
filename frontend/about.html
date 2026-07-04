@@ -1,0 +1,74 @@
+<html>
+<head>
+<title> About</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<style>
+button{
+width:200px;
+margin-left:400px;
+}
+</style>
+<body class="bg-light">
+<div class="container">
+<div class="card p-4">
+<h3 class="text-primary text-center mt-3"> Temperature Based Weather Guide </h3>
+<p class="mt-3"> This table explains how weather conditions are generally categorized based on temperature ranges. The percentages represent approximate frequency of these weather conditions globally.</p>
+<table class="table table-bordered text-center">
+<thead class="table-primary">
+<tr>
+<th> Weather Type </th>
+<th> Temperature Range </th>
+<th> Icon</th>
+<th> Approx Occurence </th>
+<th> Description </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> ☀️ Sunny/Hot </td>
+<td> Above 30°C</td>
+<td> <img src="https://cdn-icons-png.flaticon.com/512/869/869869.png" width="70"></td>
+<td> 30% </td>
+<td> High temperature with strong sunlight and clear sky. Common in summer and tropical regions.</td>
+</tr>
+<tr>
+<td> ⛅ Partly Cloudy </td>
+<td> 20°C - 30°C</td>
+<td><img src = "https://cdn-icons-png.flaticon.com/512/414/414825.png" width="70" height="60"></td>
+<td> 35% </td>
+<td>Moderate temperature with partial cloud cover. Comfortable weather conditions</td>
+</tr>
+<tr>
+<td> 🌧️ Rainy</td>
+<td> 15°C - 25°C</td>
+<td><img src = "https://cdn-icons-png.flaticon.com/512/1163/1163624.png" width="70" height="60"></td>
+<td> 20% </td>
+<td>Moist air conditions causing rainfall. Common during monsoon or storm systems.</td>
+</tr>
+<tr>
+<td> 🌬️ Windy</td>
+<td> 10°C - 20°C</td>
+<td><img src = "https://cdn-icons-png.flaticon.com/512/172/172922.png" width="70" height="60"></td>
+<td> 10% </td>
+<td>Moderate temperature with strong air movement. Usually caused by pressure differences in atmosphere.</td>
+</tr>
+<tr>
+<td> ❄️ Cold</td>
+<td> Below 10°C </td>
+<td><img src = "https://cdn-icons-png.flaticon.com/512/642/642102.png" width="70" height="60"></td>
+<td> 10% </td>
+<td>Low temperature conditions. In colder regions it may include snow or frost.</td>
+</tr>
+</tbody>
+</table>
+<button onclick="go()" class="btn btn-primary mt-3"> Back to Dashboard </button>
+</div>
+</div>
+<script>
+function go(){
+window.location.href = "dashboard.html";
+}
+</script>
+</body>
+<html>
