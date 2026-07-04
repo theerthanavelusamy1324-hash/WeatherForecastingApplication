@@ -44,13 +44,22 @@ WeatherForecasting/
 
 ## 📸 Screenshots
 
-- Login Page
-- Sign Up Page
-- Home Page
-- Menu Page
-- Cart Page
-- Checkout Page
-- Admin Dashboard
+### Login Page
+![Login Page](screenshots/login%20page.jpg)
+
+### Sign Up Page
+![Sign Up Page](screenshots/signup%20page.jpg)
+
+### Dashboard
+![Dashboard Page](screenshots/dashboard%20page.jpg)
+
+### History Page
+![History Page](screenshots/history%20page.jpg)
+
+### About Page
+![About Page](screenshots/about%20page.jpg)
+
+
 
 ## 👩‍💻 Author
 
