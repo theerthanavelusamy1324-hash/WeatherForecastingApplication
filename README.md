@@ -7,8 +7,8 @@ A Full Stack Web Application that provides real-time weather updates using API i
 [[[https://your-project.vercel.app](https://github.com/theerthanavelusamy1324-hash/WeatherForecastingApplication)]](https://theerthanavelusamy1324-hash.github.io/WeatherForecastingApplication/)
 
 ## 💻 Source Code
-[[[https://github.com/your-username/ZippyEatsProject](https://theerthanavelusamy1324-hash.github.io/WeatherForecastingApplication/)]
-](https://github.com/theerthanavelusamy1324-hash/WeatherForecastingApplication)
+
+(https://github.com/theerthanavelusamy1324-hash/WeatherForecastingApplication)
 ## 🚀 Features
 
 - 🌍 Search weather by city name  
