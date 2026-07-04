@@ -3,6 +3,11 @@
 A Full Stack Web Application that provides real-time weather updates using API integration, frontend UI, backend service, and database storage.
 
 ---
+## 🔗 Live Demo
+[https://your-project.vercel.app](https://github.com/theerthanavelusamy1324-hash/WeatherForecastingApplication)
+
+## 💻 Source Code
+[https://github.com/your-username/ZippyEatsProject](https://theerthanavelusamy1324-hash.github.io/WeatherForecastingApplication/)
 
 ## 🚀 Features
 
